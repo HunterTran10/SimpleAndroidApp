@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppSimple01</string>
+    <string name="decrease_text">decrementer</string>
+    <string name="increase_text">incrementer</string>
+</resources>

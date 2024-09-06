@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">SimpleApp01</string>
+    <string name="decrease_text">decrease</string>
+    <string name="increase_text">increase</string>
+</resources>
